@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="list.insertions.AppTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-03-06T08:24:02" hostname="ALAA-ALWAZANI" time="0.104">
+  <properties/>
+  <testcase name="TestHeadPointer()" classname="list.insertions.AppTest" time="0.024"/>
+  <testcase name="MultipleInsertTest()" classname="list.insertions.AppTest" time="0.0"/>
+  <testcase name="InsertAfterTest()" classname="list.insertions.AppTest" time="0.001"/>
+  <testcase name="AppendMultiTest()" classname="list.insertions.AppTest" time="0.001"/>
+  <testcase name="EmptyLinked()" classname="list.insertions.AppTest" time="0.001"/>
+  <testcase name="InsertTest()" classname="list.insertions.AppTest" time="0.0"/>
+  <testcase name="InsertBeforeHeadTest()" classname="list.insertions.AppTest" time="0.0"/>
+  <testcase name="PrintAllTest()" classname="list.insertions.AppTest" time="0.044"/>
+  <testcase name="InsertAfterLastTest()" classname="list.insertions.AppTest" time="0.001"/>
+  <testcase name="AppendTest()" classname="list.insertions.AppTest" time="0.0"/>
+  <testcase name="InsertBeforeTest()" classname="list.insertions.AppTest" time="0.0"/>
+  <testcase name="FindValueTest()" classname="list.insertions.AppTest" time="0.002"/>
+  <testcase name="appHasAGreeting()" classname="list.insertions.AppTest" time="0.012"/>
+  <testcase name="NotFindTest()" classname="list.insertions.AppTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
