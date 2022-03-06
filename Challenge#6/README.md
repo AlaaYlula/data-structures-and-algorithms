@@ -40,8 +40,11 @@ Else create a new Node with the newValue and create pointer to go through the Li
   
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
-![solution](./linked-list-insertions/Lab6.PNG)
-[Solution_Link]()
+![solution](./linked-list-insertions/Lab6.PNG)  
+  
+
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%236/list-insertions/app/src)  
+
   
     
 
