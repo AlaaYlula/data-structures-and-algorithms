@@ -38,7 +38,7 @@ Else create a pointer Node point to the head and element=1 to start search from 
 ![App](./Image/AppRun.PNG)  
   
 
-[Solution_Link]()
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%237/list-kth/app/src/main/java/list/kth)
 
 NOTE : The Link for the Previous Challenge : [Challenge#6](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%236/README.md)
 
