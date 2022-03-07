@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="list.kth.AppTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-03-07T18:38:35" hostname="Alaa-Alwazani" time="0.143">
+  <properties/>
+  <testcase name="TestHeadPointer()" classname="list.kth.AppTest" time="0.098"/>
+  <testcase name="MultipleInsertTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="InsertAfterTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="LengthOneTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="AppendMultiTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="EmptyLinked()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="InsertTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="InsertBeforeHeadTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="PrintAllTest()" classname="list.kth.AppTest" time="0.01"/>
+  <testcase name="InsertAfterLastTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="AppendTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="InsertBeforeTest()" classname="list.kth.AppTest" time="0.0"/>
+  <testcase name="KNegativeTest()" classname="list.kth.AppTest" time="0.002"/>
+  <testcase name="GraterThanlengthTest()" classname="list.kth.AppTest" time="0.0"/>
+  <testcase name="FindValueTest()" classname="list.kth.AppTest" time="0.0"/>
+  <testcase name="KAndlengthSameTest()" classname="list.kth.AppTest" time="0.0"/>
+  <testcase name="KInTheMiddleTest()" classname="list.kth.AppTest" time="0.001"/>
+  <testcase name="appHasAGreeting()" classname="list.kth.AppTest" time="0.016"/>
+  <testcase name="NotFindTest()" classname="list.kth.AppTest" time="0.001"/>
+  <system-out><![CDATA[ The Linked List not has this index 
+ The Linked List not has this index 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
