@@ -26,7 +26,7 @@ The Big O space O(1) / time is O(n) :  will go through whole linked list to zip 
 ![App](./Image/AppImg.PNG)  
   
 
-[Solution_Link]()  
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%238/list-zip/app/src)  
   
 NOTE : The Link for the Previous Challenge : [Challenge#7](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%237)
 
