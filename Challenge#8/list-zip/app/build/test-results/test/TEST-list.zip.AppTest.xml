@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="list.zip.AppTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2022-03-08T20:29:59" hostname="Alaa-Alwazani" time="0.229">
+  <properties/>
+  <testcase name="TestHeadPointer()" classname="list.zip.AppTest" time="0.12"/>
+  <testcase name="MultipleInsertTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="InsertAfterTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="LengthOneTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="AppendMultiTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="EmptyLinked()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="ZipLinkOneElement()" classname="list.zip.AppTest" time="0.016"/>
+  <testcase name="InsertTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="InsertBeforeHeadTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="PrintAllTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="InsertAfterLastTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="AppendTest()" classname="list.zip.AppTest" time="0.0"/>
+  <testcase name="InsertBeforeTest()" classname="list.zip.AppTest" time="0.0"/>
+  <testcase name="KNegativeTest()" classname="list.zip.AppTest" time="0.005"/>
+  <testcase name="GraterThanlengthTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="FindValueTest()" classname="list.zip.AppTest" time="0.0"/>
+  <testcase name="KAndlengthSameTest()" classname="list.zip.AppTest" time="0.001"/>
+  <testcase name="ZipLinkEmptyTest()" classname="list.zip.AppTest" time="0.0"/>
+  <testcase name="KInTheMiddleTest()" classname="list.zip.AppTest" time="0.0"/>
+  <testcase name="ZipLinkedListTest()" classname="list.zip.AppTest" time="0.0"/>
+  <testcase name="appHasAGreeting()" classname="list.zip.AppTest" time="0.061"/>
+  <testcase name="ZipLinkTwoEmpty()" classname="list.zip.AppTest" time="0.0"/>
+  <testcase name="NotFindTest()" classname="list.zip.AppTest" time="0.0"/>
+  <testcase name="ZipLinkOneEmpty()" classname="list.zip.AppTest" time="0.0"/>
+  <system-out><![CDATA[ The Linked List not has this index 
+ The Linked List not has this index 
+{ 1 } -> { 3 } -> { 5 } -> NULL
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

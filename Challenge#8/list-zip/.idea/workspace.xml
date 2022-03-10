@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6157296d-7df3-4e5d-84a9-20b34fc65138" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Challenge#8/list-zip/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#8/list-zip/app/src/main/java/list/zip/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#8/list-zip/app/src/main/java/list/zip/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="901cfa4c-958b-4940-bc95-928f48f677a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="263hTMoXmTBoIiW9dTpBYUrlNiB" />
+  <component name="ProjectId" id="26759eSRId1PHKigvBEp0tNayxa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -55,16 +53,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Challenge#8/list-zip" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.kth.App" />
-      <module name="list-kth.app.main" />
+      <option name="MAIN_CLASS_NAME" value="list.zip.App" />
+      <module name="list-zip.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.kth.*" />
+          <option name="PATTERN" value="list.zip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,7 +69,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.KAndlengthSameTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AppTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -85,7 +82,7 @@
           <list>
             <option value=":app:test" />
             <option value="--tests" />
-            <option value="&quot;list.kth.AppTest.KAndlengthSameTest&quot;" />
+            <option value="&quot;list.zip.AppTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -95,7 +92,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="AppTest.KInTheMiddleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AppTest.ZipLinkOneElement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -108,7 +105,7 @@
           <list>
             <option value=":app:test" />
             <option value="--tests" />
-            <option value="&quot;list.kth.AppTest.KInTheMiddleTest&quot;" />
+            <option value="&quot;list.zip.AppTest.ZipLinkOneElement&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -118,7 +115,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="AppTest.KNegativeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AppTest.ZipLinkOneEmpty" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -131,7 +128,7 @@
           <list>
             <option value=":app:test" />
             <option value="--tests" />
-            <option value="&quot;list.kth.AppTest.KNegativeTest&quot;" />
+            <option value="&quot;list.zip.AppTest.ZipLinkOneEmpty&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -141,7 +138,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="AppTest.LengthOneTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AppTest.ZipLinkTwoEmpty" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -154,7 +151,7 @@
           <list>
             <option value=":app:test" />
             <option value="--tests" />
-            <option value="&quot;list.kth.AppTest.LengthOneTest&quot;" />
+            <option value="&quot;list.zip.AppTest.ZipLinkTwoEmpty&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -166,22 +163,22 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.AppTest" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Gradle.AppTest.KInTheMiddleTest" />
-        <item itemvalue="Gradle.AppTest.LengthOneTest" />
-        <item itemvalue="Gradle.AppTest.KNegativeTest" />
-        <item itemvalue="Gradle.AppTest.KAndlengthSameTest" />
+        <item itemvalue="Gradle.AppTest.ZipLinkTwoEmpty" />
+        <item itemvalue="Gradle.AppTest.ZipLinkOneElement" />
+        <item itemvalue="Gradle.AppTest.ZipLinkOneEmpty" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6157296d-7df3-4e5d-84a9-20b34fc65138" name="Changes" comment="" />
-      <created>1646658187863</created>
+      <changelist id="901cfa4c-958b-4940-bc95-928f48f677a8" name="Changes" comment="" />
+      <created>1646761646505</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646658187863</updated>
+      <updated>1646761646505</updated>
     </task>
     <servers />
   </component>
