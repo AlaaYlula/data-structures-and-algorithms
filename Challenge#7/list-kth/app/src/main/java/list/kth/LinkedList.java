@@ -1,5 +1,8 @@
 package list.kth;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class LinkedList<T> {
     Node<T> head;
 
@@ -7,6 +10,61 @@ public class LinkedList<T> {
         this.head = null;
     }
 
+    public Node<T> reverseLinkedList1(Node<T> head){
+        Node<T> current = head;
+        Node<T> nextNode;
+        Node<T> Prev = null;
+        while (current != null){
+            nextNode = current.next;
+            current.next = Prev;
+            Prev = current;
+            current = nextNode;
+        }
+        this.head = Prev;
+        return this.head;
+    }
+    public Boolean isPalindrome(Node<T> head){
+        Boolean flag = true;
+        ArrayList<T> arrayList = new ArrayList<>();
+        Node<T> pointer = head ;
+        while (pointer != null){
+            arrayList.add(pointer.value);
+            pointer = pointer.next;
+        }
+        System.out.println(arrayList);
+        for (int i = 0; i < arrayList.size(); i++) {
+            if(arrayList.get(i) != arrayList.get(arrayList.size()-1 - i)){
+                flag = false;
+            }
+        }
+        return flag;
+    }
+    // https://stackoverflow.com/questions/4984071/how-do-you-copy-a-linked-list-into-another-list
+    public Node<T> CopyLinkedList(Node<T> head){
+        if (head == null) return null;
+
+        Node<T> current = new Node<T>(head.value);
+
+        Node<T> copyLinkedList = current;
+        Node<T> previous = current;
+
+        head = head.next;
+
+        // keep moving until we hit a null reference which is the end.
+        while (head != null)
+        {
+            current = new Node(head.value); // create a new node every time as we move forward.
+            previous.next = current; // set previous node's next to current node as previous node itself is one step behind the current.
+            previous = previous.next; // move prev pointer forward
+            head = head.next; // move head pointer forward as well
+        }
+
+        // return the reference to copyList.
+        // copyList and previous both started off pointing to the currentNode, then in the while loop
+        // previous kept moving forward till all nodes are copied.
+        // copyList reference never moved from its position so its still pointing at the start.
+        return copyLinkedList;
+    }
     /////////////////////// The Methods class07 /////////////////
     public int LinkedListLength(){
         int size=0;

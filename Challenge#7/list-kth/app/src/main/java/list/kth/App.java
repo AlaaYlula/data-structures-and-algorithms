@@ -10,12 +10,19 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
-        LinkedList<Integer> linkedList = new LinkedList<>();
-        linkedList.AddToHead(1);
-        linkedList.Append(3);
-        linkedList.Append(8);
-        linkedList.Append(2);
-        linkedList.Append(10);
+        LinkedList<String> linkedList = new LinkedList<>();
+//        linkedList.Append(10);
+//        linkedList.Append(2);
+//        linkedList.Append(2);
+//        linkedList.Append(3);
+//        linkedList.Append(2);
+//        linkedList.Append(10);
+
+        linkedList.Append("h");
+        linkedList.Append("o");
+        linkedList.Append("u");
+        linkedList.Append("s");
+        linkedList.Append("e");
 
         System.out.println(linkedList.ToString());
         System.out.println("Index 0 value => "+linkedList.kthFromEnd(0));
@@ -23,6 +30,11 @@ public class App {
        // System.out.println(linkedList.kthFromEnd(6)); // this will throw an exception
         System.out.println("The Middle value => "+linkedList.TheMiddlevalue());
 
-       // System.out.println(linkedList.LinkedListLength());
+        linkedList.reverseLinkedList1(linkedList.head);
+        System.out.println(linkedList.ToString());
+        // System.out.println(linkedList.LinkedListLength());
+        linkedList.CopyLinkedList(linkedList.head);
+        System.out.println(linkedList.ToString());
+        System.out.println(linkedList.isPalindrome(linkedList.head));
     }
 }

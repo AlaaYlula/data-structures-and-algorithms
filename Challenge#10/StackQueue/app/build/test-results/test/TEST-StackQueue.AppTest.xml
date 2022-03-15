@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StackQueue.AppTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-03-15T16:53:22" hostname="Alaa-Alwazani" time="0.217">
+  <properties/>
+  <testcase name="Testenqueue()" classname="StackQueue.AppTest" time="0.186"/>
+  <testcase name="TestPush()" classname="StackQueue.AppTest" time="0.0"/>
+  <testcase name="Testpeek()" classname="StackQueue.AppTest" time="0.001"/>
+  <testcase name="TestEmptyQ()" classname="StackQueue.AppTest" time="0.001"/>
+  <testcase name="TestMultienqueue()" classname="StackQueue.AppTest" time="0.002"/>
+  <testcase name="TestQueuepeek()" classname="StackQueue.AppTest" time="0.0"/>
+  <testcase name="TestExceptionsQueue()" classname="StackQueue.AppTest" time="0.0"/>
+  <testcase name="Testpop()" classname="StackQueue.AppTest" time="0.001"/>
+  <testcase name="TestMultiPush()" classname="StackQueue.AppTest" time="0.0"/>
+  <testcase name="Testremove()" classname="StackQueue.AppTest" time="0.0"/>
+  <testcase name="TestEmpty()" classname="StackQueue.AppTest" time="0.001"/>
+  <testcase name="appHasAGreeting()" classname="StackQueue.AppTest" time="0.012"/>
+  <testcase name="Testdequeue()" classname="StackQueue.AppTest" time="0.001"/>
+  <testcase name="TestExceptions()" classname="StackQueue.AppTest" time="0.001"/>
+  <testcase name="TestEmptyQueue()" classname="StackQueue.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

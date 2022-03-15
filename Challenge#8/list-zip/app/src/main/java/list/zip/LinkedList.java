@@ -6,6 +6,15 @@ public class LinkedList<T> {
     public LinkedList() {
         this.head = null;
     }
+
+    public LinkedList<T> ReverseLinkedList(LinkedList<T> linkedList){
+        Node<T> nextNode;
+        Node<T> Prev;
+        Node<T> current = head;
+
+        while()
+        return
+    }
     /////////////////////// The Methods class08 /////////////////
     public  LinkedList<T> LinkedListZip(LinkedList<T> one , LinkedList<T> two){
         Node<T> move1 = one.head; // 2 nodes to connect the nodes in each Linked List
