@@ -16,7 +16,7 @@ Instead, this PseudoQueue class will implement enqueue and dequeue Methods, Usin
 The Big O space O(1) / time is O(1)  
 * **dequeue** Method : It is put the elements from the stackIn to stackOut by using while loop each time push the element to the satckOut and pop it from stackIn. then pop the last element from the stackOut(which is the first input element) and loop again through the stackOut and push the elements to the stackIn and pop it from stackOut.  
 The Big O space O(n) / time is O(n)  
-* **StackLength** Method : use it to check if the stackIn has only one element so no need to go through the stackIn and stackOut to do the dequeue.  
+* **StackLength** Method : use it to check if the stackIn has only one element so no need to go through the stackIn and stackOut to do the dequeue. But I didn't use it becuase I can check if it has one element if the next of the stack top is null.  
 ![length](./Image/stackLength.PNG)  
   
 
@@ -24,4 +24,4 @@ The Big O space O(n) / time is O(n)
 <!-- Show how to run your code, and examples of it in action -->
 ![App](./Image/App.PNG)  
 
-[Solution_Link]()  
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2311/stack-queue-pseudo/app/src)  
