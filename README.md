@@ -10,4 +10,5 @@
 | Class 06         | Linked List Insertions        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%236/README.md)  |
 | Class 07         | Linked List kth from end        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%237)  |
 | Class 08        | Linked List Zip        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%238)  |
-| Class 10        | Stack and Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2310)  |
+| Class 10       | Stack and Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2310)  |
+| Class 1       | Pseudo Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2311)  |

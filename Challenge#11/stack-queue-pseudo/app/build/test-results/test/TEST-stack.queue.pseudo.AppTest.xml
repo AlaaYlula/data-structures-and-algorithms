@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stack.queue.pseudo.AppTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-16T15:14:13" hostname="Alaa-Alwazani" time="0.129">
+  <properties/>
+  <testcase name="Testenqueue()" classname="stack.queue.pseudo.AppTest" time="0.105"/>
+  <testcase name="TestMultienqueue()" classname="stack.queue.pseudo.AppTest" time="0.001"/>
+  <testcase name="TestEmptydequeue()" classname="stack.queue.pseudo.AppTest" time="0.001"/>
+  <testcase name="appHasAGreeting()" classname="stack.queue.pseudo.AppTest" time="0.016"/>
+  <testcase name="Testdequeue()" classname="stack.queue.pseudo.AppTest" time="0.001"/>
+  <system-out><![CDATA[Add => 1
+Add => 1
+Add => 2
+Add => 1
+Add => 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

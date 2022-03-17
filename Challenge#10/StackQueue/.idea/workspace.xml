@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6d6bc9-31bb-49b8-bd7e-2a0afabbd344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/StackQueue/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/StackQueue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/StackQueue/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/build/classes/java/main/list/kth/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/build/classes/java/main/list/kth/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/build/classes/java/main/list/kth/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/build/classes/java/main/list/kth/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/build/classes/java/main/list/kth/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/build/classes/java/main/list/kth/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/src/main/java/list/kth/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/src/main/java/list/kth/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/src/main/java/list/kth/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#7/list-kth/app/src/main/java/list/kth/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#8/list-zip/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#8/list-zip/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Challenge#8/list-zip/app/src/main/java/list/zip/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#8/list-zip/app/src/main/java/list/zip/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/app/src/main/java/stack/queue/pseudo/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/app/src/main/java/stack/queue/pseudo/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/app/src/main/java/stack/queue/pseudo/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/app/src/main/java/stack/queue/pseudo/pseudo_queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
