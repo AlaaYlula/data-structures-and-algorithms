@@ -12,3 +12,4 @@
 | Class 08        | Linked List Zip        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%238)  |
 | Class 10       | Stack and Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2310)  |
 | Class 11       | Pseudo Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2311)  |
+| Class 12       |  Animal Shelter Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2312)  |

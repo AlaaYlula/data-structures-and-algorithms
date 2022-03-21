@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6d6bc9-31bb-49b8-bd7e-2a0afabbd344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/app/src/main/java/stack/queue/pseudo/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/app/src/main/java/stack/queue/pseudo/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/app/src/main/java/stack/queue/pseudo/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/app/src/main/java/stack/queue/pseudo/pseudo_queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/app/src/main/java/animal/shelter/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/app/src/main/java/animal/shelter/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Challenge#12/animal-shelter/app/src/main/java/animal/shelter/animalSelter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Challenge#11/stack-queue-pseudo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
