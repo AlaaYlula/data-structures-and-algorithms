@@ -27,3 +27,5 @@ The enqueue and dequeue Methods For the Queue : [Link Challenge#10](https://gith
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
 ![App](./Image/Appimg.PNG)  
+  
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2312/animal-shelter/app/src/main/java/animal/shelter)  
