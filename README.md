@@ -13,3 +13,4 @@
 | Class 10       | Stack and Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2310)  |
 | Class 11       | Pseudo Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2311)  |
 | Class 12       |  Animal Shelter Queue        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2312)  |
+| Class 13       |  validate brackets Stack        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2313)  |
