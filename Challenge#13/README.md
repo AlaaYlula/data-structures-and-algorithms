@@ -27,4 +27,4 @@ Method take a string and return bollean true if  brackets in the string are bala
 <!-- Show how to run your code, and examples of it in action -->
 ![App](./Image/App.PNG)  
   
-[Solution_Link]()
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%2313/validate_brackets/app/src/main/java/validate_brackets/App.java)
