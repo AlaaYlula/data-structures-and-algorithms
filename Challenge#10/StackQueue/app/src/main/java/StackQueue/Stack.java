@@ -1,5 +1,7 @@
 package StackQueue;
 
+import java.util.ArrayList;
+
 public class Stack<T> {
     private Node<T> top;
 
@@ -10,6 +12,7 @@ public class Stack<T> {
     public Node<T> getTop() {
         return top;
     }
+
     //////////////////////////// Methods Class 10 /////////////////////////
     // return if the Stack is empty or not
     public Boolean isEmpty(){
