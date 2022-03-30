@@ -32,5 +32,6 @@ The Big O space O(1) / time is O(n) since we check the whole tree.
 The Big O space O(1) / time is O(logn) since we check only the right side of the binary search tree.  
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
- ![App](./Image/AppTask.PNG)  
+ ![App](./Image/AppTask.PNG)   
+ [Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2316/treeMax/app/src/main/java/treeMax) 
 
