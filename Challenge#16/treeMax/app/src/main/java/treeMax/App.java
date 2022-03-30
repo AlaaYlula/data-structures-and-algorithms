@@ -11,6 +11,22 @@ public class App {
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
 
+        BinaryTree binaryTree = new BinaryTree();
+        //Root
+        binaryTree.setRoot(new BNode(1));
+        //level 1
+        binaryTree.getRoot().setLeftNode(new BNode(2));
+        binaryTree.getRoot().setRightNode(new BNode(20));
+        //level 2
+        binaryTree.getRoot().getLeftNode().setLeftNode(new BNode(3));
+        binaryTree.getRoot().getLeftNode().setRightNode(new BNode(30));
+        binaryTree.getRoot().getRightNode().setLeftNode(new BNode(50));
+        System.out.println(binaryTree);
+        System.out.println("Pre Order Array => "+binaryTree.PreOrder());
+        System.out.println("In Order Array => "+binaryTree.InOrder());
+        System.out.println("Post Order Array => "+binaryTree.PostOrder());
+
+        System.out.println("The Maximum value in the Binary tree => "+binaryTree.Max_Value());
         System.out.println(" /////////////// Binary Search Tree ///////////////");
         BinarySearchTree<Integer> binarySearchTree = new BinarySearchTree<>();
         binarySearchTree.add(100);
@@ -20,7 +36,8 @@ public class App {
         binarySearchTree.add(400);
         System.out.println(binarySearchTree);
         System.out.println("Pre Order Array => "+binarySearchTree.PreOrder());
-        System.out.println("The Maximum value in the tree => "+binarySearchTree.Max_Value());
+        System.out.println("The Maximum value in the Binary Search tree => "+binarySearchTree.Max_Value());
+
     }
 
 }
