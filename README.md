@@ -16,3 +16,4 @@
 | Class 13       |  validate brackets Stack        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2313)  |
 | Class 15       |  Trees Implementation        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2315)  |
 | Class 16       |  Max Value in Tree        | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2316)  |
+| Class 17       |  Breadth-first Traversal   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2317)  |
