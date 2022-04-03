@@ -28,4 +28,4 @@ Method return list of all values in the tree, in the order they were encountered
 ![App](./Image/AppMain.PNG)    
 ![AppOut](./Image/AppOutput.PNG)  
 
-[Solution_Link]()
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2317/breadth_first/app/src/main/java/breadth_first)
