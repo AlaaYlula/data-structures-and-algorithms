@@ -28,3 +28,6 @@ The Big O space O(n) / time is O(n)
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
 ![App](./Images/App.PNG)  
+
+  
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2318/fizz-buzz/app/src/main/java/fizz/buzz)
