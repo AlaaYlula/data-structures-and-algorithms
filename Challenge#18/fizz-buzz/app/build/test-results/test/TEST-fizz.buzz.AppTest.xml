@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fizz.buzz.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-05T08:39:58" hostname="ALAA-ALWAZANI" time="0.022">
+  <properties/>
+  <testcase name="TestFizzBuzz()" classname="fizz.buzz.AppTest" time="0.022"/>
+  <system-out><![CDATA[BinaryTree{root=Node{data=Buzz, leftNode=null, rightNode=Node{data=FizzBuzz, leftNode=Node{data=2, leftNode=null, rightNode=null}, rightNode=Node{data=4, leftNode=null, rightNode=null}}}}
+BinaryTree{root=Node{data=Buzz, leftNode=null, rightNode=Node{data=FizzBuzz, leftNode=Node{data=2, leftNode=null, rightNode=null}, rightNode=Node{data=4, leftNode=null, rightNode=null}}}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

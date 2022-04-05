@@ -1,0 +1,2 @@
+½BinaryTree{root=Node{data=Buzz, leftNode=null, rightNode=Node{data=FizzBuzz, leftNode=Node{data=2, leftNode=null, rightNode=null}, rightNode=Node{data=4, leftNode=null, rightNode=null}}}}
+½BinaryTree{root=Node{data=Buzz, leftNode=null, rightNode=Node{data=FizzBuzz, leftNode=Node{data=2, leftNode=null, rightNode=null}, rightNode=Node{data=4, leftNode=null, rightNode=null}}}}
