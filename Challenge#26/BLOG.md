@@ -5,6 +5,9 @@ Sort the array by check the value in the index with the previous values in the a
 ![pesudocode](./Images/pesudocode.PNG)  
 
 # Trace
+* **Sample**  
+![sample](./Images/tracing.PNG)  
+  
 * **Reverse-sorted: [20,18,12,8,5,-2]**  
 ![array1](./Images/array1.PNG)  
 ![array11](./Images/array11.PNG)  
