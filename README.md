@@ -19,3 +19,4 @@
 | Class 17       |  Breadth-first Traversal   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2317)  |
 | Class 18       |  Tree-Fizz-Buzz   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2318)  |
 | Class 26       |  Insertion Sort   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2326)  |
+| Class 27       |  Merge Sort   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2327)  |
