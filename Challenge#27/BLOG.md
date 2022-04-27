@@ -2,10 +2,10 @@
 Sort the array by dividing it into two halves and keep doing that until reaching an array with one element. Then merge the Left array with the right array and sort it.  
   
 # Pseudo Code
-* **Merge Method**  
-![merge](./Images/merge.PNG)  
-  
+* **mergeSort Method**  
 ![sort](./Images/mergeSort.PNG)  
+* **merge Method**  
+![merge](./Images/merge.PNG)  
 
 # Trace 
 * **The Sample Array [8,4,23,42,16,15]**  
