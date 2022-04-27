@@ -19,7 +19,7 @@ Method take an array as parameter and sort it.
       a. compare the values in each array, put the smaller element in the array and increment the variable which points on this array by one.   
 3. when reach end of one of the arrays, we must check the other if still has an element.   
   
-The Big O space O(1) / time is O(n).  
+The Big O space O(1) / time is O(logn).  
   
   
 ## Solution
