@@ -21,4 +21,4 @@ The Big O space O(1) / time is O(nlogn).
 <!-- Show how to run your code, and examples of it in action -->
 ![app](./Images/AppRun.PNG)  
   
-[Solution_Link]()  
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%2328/Quick_Sort/app/src/main/java/Quick_Sort/App.java)  
