@@ -21,3 +21,4 @@
 | Class 26       |  Insertion Sort   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2326)  |
 | Class 27       |  Merge Sort   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2327)  |
 | Class 28       |  Quick Sort   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2328)  |
+| Class 30       |  Hash Tables   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2329)  |
