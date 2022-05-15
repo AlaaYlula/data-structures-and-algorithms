@@ -15,6 +15,6 @@ The Big O space O(n) / time is O(n).
   
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
-[App](./Images/App.PNG)  
+![App](./Images/App.PNG)  
 
-[Solution_Link]()
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%2331/hashmap-repeated-word/app/src/main/java/hashmap/repeated/word/App.java)
