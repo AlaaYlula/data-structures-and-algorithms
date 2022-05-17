@@ -4,7 +4,7 @@ function called tree_intersection that takes two binary trees as parameters.
 Using the Hashmap which implementrd in previous challenge, return a set of values found in both trees.  
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![WB1](./Images/WB.PNG)  
+![WB1](./Images/WB1.PNG)    
 **The Code**  
 ![code](./Images/Code1.PNG)  
 ![code](./Images/Code2.PNG)  
