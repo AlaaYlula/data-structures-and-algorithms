@@ -4,8 +4,8 @@ function called tree_intersection that takes two binary trees as parameters.
 Using the Hashmap which implementrd in previous challenge, return a set of values found in both trees.  
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![WB](./Images/WB.PNG)  
-**The Code**
+![WB1](./Images/WB.PNG)  
+**The Code**  
 ![code](./Images/Code1.PNG)  
 ![code](./Images/Code2.PNG)  
   
@@ -18,4 +18,4 @@ Using the Hashmap which implementrd in previous challenge, return a set of value
 <!-- Show how to run your code, and examples of it in action -->
 ![img](./Images/App.PNG)  
 
-[Solution_Link]()
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%2332/TreeIntersection/app/src/main/java/TreeIntersection/App.java)
