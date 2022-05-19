@@ -24,3 +24,4 @@
 | Class 30       |  Hash Tables   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2330)  |
 | Class 31       |  Hashmap Repeated Word   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2331)  |
 | Class 32       |  Tree Intersection   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2332)  |
+| Class 33      |  Hashmap left join   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2333)  |
