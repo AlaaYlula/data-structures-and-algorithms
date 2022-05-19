@@ -22,4 +22,4 @@ Return: The returned data structure that holds the results is up to you. It does
 ![WB1](./assets/WB1.PNG)  
 ![WB2](./assets/WB2.PNG)  
 
-[Solutio_Link]()
+[Solutio_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%2333/hashmap_Left_Join/app/src/main/java/hashmap_Left_Join/App.java)
