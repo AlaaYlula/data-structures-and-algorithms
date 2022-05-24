@@ -73,7 +73,19 @@ class AppTest {
     }
 //    Neighbors are returned with the weight between nodes included //////////////// Not yet
     @Test void weight(){
+        Graph<String> graph = new Graph<>();
+        graph.addNode("A");
+        graph.addNode("B");
+        graph.addNode("C");
+        graph.addEdge(new Vertex<>("A"),new Vertex<>("B"),2);
+        graph.addEdge(new Vertex<>("A"),new Vertex<>("C"),3);
 
+        List<Vertex<String>>  neighborsA = graph.getNeighbors(new Vertex<>("A"));
+        List<Vertex<String>> expected = new ArrayList<>();
+        expected.add(new Vertex<>("B"));
+        expected.add(new Vertex<>("C"));
+
+        assertEquals(List.of(expected), List.of(neighborsA));
     }
 //    The proper size is returned, representing the number of nodes in the graph
     @Test void getSize(){
@@ -89,11 +101,10 @@ class AppTest {
     @Test void getOneNode(){
         Graph<String> graph = new Graph<>();
         graph.addNode("A");
-        graph.addNode("B");
-        graph.addNode("C");
+
         int size = graph.size();
 
-        assertEquals(3,size);
+        assertEquals(1,size);
     }
 //    An empty graph properly returns null
     @Test void getEmptyGraph(){
