@@ -23,4 +23,4 @@ Write method for the Graph class called breadth first take Node as argument and 
 <!-- Show how to run your code, and examples of it in action -->
 ![App](./Images/App.PNG)  
   
-[Solution_Link]()  
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%2336/graph/app/src/main/java/graph/structure/Graph.java)  
