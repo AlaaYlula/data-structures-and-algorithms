@@ -22,4 +22,4 @@ The Big O: time O(n)/space O(1).
 <!-- Show how to run your code, and examples of it in action -->
 ![App](./Images/App.PNG)  
   
-[Solution_Link]()  
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%2337/graph-business-trip/app/src/main/java/graph/business/trip/App.java)  
