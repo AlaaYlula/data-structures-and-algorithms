@@ -27,3 +27,4 @@
 | Class 33      |  Hashmap left join   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2333)  |
 | Class 35      |  Graph Implementation   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2335)  |
 | Class 36      |  Graph breadth-first   | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2336)  |
+| Class 37      |  Graph Business Trip  | [Link](https://github.com/AlaaYlula/data-structures-and-algorithms/tree/main/Challenge%2337)  |
