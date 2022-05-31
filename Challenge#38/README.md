@@ -21,4 +21,4 @@ The BigO : space O(n) / time O(n)
 ![WB2](./Images/WB2.PNG)  
 
   
-[Solution_Link]()  
+[Solution_Link](https://github.com/AlaaYlula/data-structures-and-algorithms/blob/main/Challenge%2338/graph-depth-first/app/src/main/java/graph/depth/first/structure/Graph.java)  
